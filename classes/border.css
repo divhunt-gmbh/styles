@@ -12,8 +12,8 @@
 .dh-border-red { border-color: var(--dh-red-border); }
 .dh-border-orange { border-color: var(--dh-orange-border); }
 
-.dh-rounded-none { border-radius: 0; }
-.dh-rounded-s { border-radius: var(--dh-radius-s); }
-.dh-rounded-m { border-radius: var(--dh-radius-m); }
-.dh-rounded-l { border-radius: var(--dh-radius-l); }
-.dh-rounded-full { border-radius: 9999px; }
+.dh-radius-none { border-radius: 0; }
+.dh-radius-s { border-radius: var(--dh-radius-s); }
+.dh-radius-m { border-radius: var(--dh-radius-m); }
+.dh-radius-l { border-radius: var(--dh-radius-l); }
+.dh-radius-full { border-radius: 9999px; }

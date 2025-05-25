@@ -148,7 +148,7 @@ A comprehensive, utility-first CSS framework with a complete dark theme design s
 | `--dh-radius-m` | `8px` | Medium - cards, panels |
 | `--dh-radius-l` | `12px` | Large - modals, containers |
 
-**Classes:** `dh-rounded-none`, `dh-rounded-s`, `dh-rounded-m`, `dh-rounded-l`, `dh-rounded-full`
+**Classes:** `dh-radius-none`, `dh-radius-s`, `dh-radius-m`, `dh-radius-l`, `dh-radius-full`
 
 ### 📏 Height Scale
 | Variable | Value | Usage |
@@ -465,12 +465,12 @@ A comprehensive, utility-first CSS framework with a complete dark theme design s
 
 ### Card Component
 ```html
-<div class="dh-bg-2 dh-border dh-border-2 dh-rounded-m dh-p-l dh-shadow-m dh-transition dh-hover-bg-3">
+<div class="dh-bg-2 dh-border dh-border-2 dh-radius-m dh-p-l dh-shadow-m dh-transition dh-hover-bg-3">
     <h3 class="dh-text-1 dh-font-semibold dh-text-l dh-mb-s">Card Title</h3>
     <p class="dh-text-2 dh-mb-m dh-leading-relaxed">Card description with proper spacing and typography.</p>
     <div class="dh-flex-between">
         <span class="dh-text-s dh-text-2">Status</span>
-        <button class="dh-bg-brand dh-text-1 dh-px-m dh-py-x dh-rounded-s dh-hover-bg-brand dh-transition">
+        <button class="dh-bg-brand dh-text-1 dh-px-m dh-py-x dh-radius-s dh-hover-bg-brand dh-transition">
             Action
         </button>
     </div>
