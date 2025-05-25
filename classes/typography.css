@@ -1,0 +1,35 @@
+.dh-font-primary { font-family: var(--dh-font-primary); }
+.dh-font-secondary { font-family: var(--dh-font-secondary); }
+
+.dh-text-s { font-size: var(--dh-size-s); }
+.dh-text-m { font-size: var(--dh-size-m); }
+.dh-text-l { font-size: var(--dh-size-l); }
+
+.dh-font-thin { font-weight: 100; }
+.dh-font-light { font-weight: 300; }
+.dh-font-normal { font-weight: 400; }
+.dh-font-medium { font-weight: 500; }
+.dh-font-semibold { font-weight: 600; }
+.dh-font-bold { font-weight: 700; }
+.dh-font-black { font-weight: 900; }
+
+.dh-text-left { text-align: left; }
+.dh-text-center { text-align: center; }
+.dh-text-right { text-align: right; }
+.dh-text-justify { text-align: justify; }
+
+.dh-uppercase { text-transform: uppercase; }
+.dh-lowercase { text-transform: lowercase; }
+.dh-capitalize { text-transform: capitalize; }
+.dh-normal-case { text-transform: none; }
+
+.dh-underline { text-decoration: underline; }
+.dh-line-through { text-decoration: line-through; }
+.dh-no-underline { text-decoration: none; }
+
+.dh-leading-none { line-height: 1; }
+.dh-leading-tight { line-height: 1.25; }
+.dh-leading-snug { line-height: 1.375; }
+.dh-leading-normal { line-height: 1.5; }
+.dh-leading-relaxed { line-height: 1.625; }
+.dh-leading-loose { line-height: 2; }

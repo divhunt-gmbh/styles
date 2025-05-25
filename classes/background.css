@@ -1,0 +1,20 @@
+.dh-bg-1 { background: var(--dh-bg-1); }
+.dh-bg-2 { background: var(--dh-bg-2); }
+.dh-bg-3 { background: var(--dh-bg-3); }
+.dh-bg-4 { background: var(--dh-bg-4); }
+.dh-bg-brand { background: var(--dh-brand); }
+.dh-bg-blue { background: var(--dh-blue); }
+.dh-bg-red { background: var(--dh-red); }
+.dh-bg-orange { background: var(--dh-orange); }
+.dh-bg-green { background: var(--dh-green); }
+.dh-bg-transparent { background: transparent; }
+
+.dh-hover-bg-1:hover { background: var(--dh-bg-1-hover); }
+.dh-hover-bg-2:hover { background: var(--dh-bg-2-hover); }
+.dh-hover-bg-3:hover { background: var(--dh-bg-3-hover); }
+.dh-hover-bg-4:hover { background: var(--dh-bg-4-hover); }
+.dh-hover-bg-brand:hover { background: var(--dh-brand-hover); }
+.dh-hover-bg-blue:hover { background: var(--dh-blue-hover); }
+.dh-hover-bg-red:hover { background: var(--dh-red-hover); }
+.dh-hover-bg-orange:hover { background: var(--dh-orange-hover); }
+.dh-hover-bg-green:hover { background: var(--dh-green-hover); }

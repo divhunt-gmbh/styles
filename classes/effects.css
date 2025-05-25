@@ -1,0 +1,15 @@
+.dh-shadow-s { box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1); }
+.dh-shadow-m { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.15); }
+.dh-shadow-l { box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2); }
+.dh-shadow-xl { box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.25); }
+.dh-shadow-none { box-shadow: none; }
+
+.dh-transition { transition: all 0.15s ease; }
+.dh-transition-slow { transition: all 0.3s ease; }
+.dh-transition-none { transition: none; }
+
+.dh-opacity-0 { opacity: 0; }
+.dh-opacity-25 { opacity: 0.25; }
+.dh-opacity-50 { opacity: 0.5; }
+.dh-opacity-75 { opacity: 0.75; }
+.dh-opacity-100 { opacity: 1; }

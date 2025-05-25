@@ -1,0 +1,21 @@
+@keyframes dhFadeIn
+{
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes dhSlideUp
+{
+    from { transform: translateY(10px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes dhSlideDown
+{
+    from { transform: translateY(-10px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.dh-animate-fade-in { animation: dhFadeIn 0.2s ease-out; }
+.dh-animate-slide-up { animation: dhSlideUp 0.2s ease-out; }
+.dh-animate-slide-down { animation: dhSlideDown 0.2s ease-out; }

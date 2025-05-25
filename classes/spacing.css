@@ -1,0 +1,96 @@
+.dh-p-0 { padding: 0; }
+.dh-p-x { padding: var(--dh-spacing-x); }
+.dh-p-s { padding: var(--dh-spacing-s); }
+.dh-p-m { padding: var(--dh-spacing-m); }
+.dh-p-l { padding: var(--dh-spacing-l); }
+
+.dh-px-0 { padding-left: 0; padding-right: 0; }
+.dh-px-x { padding-left: var(--dh-spacing-x); padding-right: var(--dh-spacing-x); }
+.dh-px-s { padding-left: var(--dh-spacing-s); padding-right: var(--dh-spacing-s); }
+.dh-px-m { padding-left: var(--dh-spacing-m); padding-right: var(--dh-spacing-m); }
+.dh-px-l { padding-left: var(--dh-spacing-l); padding-right: var(--dh-spacing-l); }
+
+.dh-py-0 { padding-top: 0; padding-bottom: 0; }
+.dh-py-x { padding-top: var(--dh-spacing-x); padding-bottom: var(--dh-spacing-x); }
+.dh-py-s { padding-top: var(--dh-spacing-s); padding-bottom: var(--dh-spacing-s); }
+.dh-py-m { padding-top: var(--dh-spacing-m); padding-bottom: var(--dh-spacing-m); }
+.dh-py-l { padding-top: var(--dh-spacing-l); padding-bottom: var(--dh-spacing-l); }
+
+.dh-pt-0 { padding-top: 0; }
+.dh-pt-x { padding-top: var(--dh-spacing-x); }
+.dh-pt-s { padding-top: var(--dh-spacing-s); }
+.dh-pt-m { padding-top: var(--dh-spacing-m); }
+.dh-pt-l { padding-top: var(--dh-spacing-l); }
+
+.dh-pr-0 { padding-right: 0; }
+.dh-pr-x { padding-right: var(--dh-spacing-x); }
+.dh-pr-s { padding-right: var(--dh-spacing-s); }
+.dh-pr-m { padding-right: var(--dh-spacing-m); }
+.dh-pr-l { padding-right: var(--dh-spacing-l); }
+
+.dh-pb-0 { padding-bottom: 0; }
+.dh-pb-x { padding-bottom: var(--dh-spacing-x); }
+.dh-pb-s { padding-bottom: var(--dh-spacing-s); }
+.dh-pb-m { padding-bottom: var(--dh-spacing-m); }
+.dh-pb-l { padding-bottom: var(--dh-spacing-l); }
+
+.dh-pl-0 { padding-left: 0; }
+.dh-pl-x { padding-left: var(--dh-spacing-x); }
+.dh-pl-s { padding-left: var(--dh-spacing-s); }
+.dh-pl-m { padding-left: var(--dh-spacing-m); }
+.dh-pl-l { padding-left: var(--dh-spacing-l); }
+
+.dh-m-0 { margin: 0; }
+.dh-m-auto { margin: auto; }
+.dh-m-x { margin: var(--dh-spacing-x); }
+.dh-m-s { margin: var(--dh-spacing-s); }
+.dh-m-m { margin: var(--dh-spacing-m); }
+.dh-m-l { margin: var(--dh-spacing-l); }
+
+.dh-mx-0 { margin-left: 0; margin-right: 0; }
+.dh-mx-auto { margin-left: auto; margin-right: auto; }
+.dh-mx-x { margin-left: var(--dh-spacing-x); margin-right: var(--dh-spacing-x); }
+.dh-mx-s { margin-left: var(--dh-spacing-s); margin-right: var(--dh-spacing-s); }
+.dh-mx-m { margin-left: var(--dh-spacing-m); margin-right: var(--dh-spacing-m); }
+.dh-mx-l { margin-left: var(--dh-spacing-l); margin-right: var(--dh-spacing-l); }
+
+.dh-my-0 { margin-top: 0; margin-bottom: 0; }
+.dh-my-auto { margin-top: auto; margin-bottom: auto; }
+.dh-my-x { margin-top: var(--dh-spacing-x); margin-bottom: var(--dh-spacing-x); }
+.dh-my-s { margin-top: var(--dh-spacing-s); margin-bottom: var(--dh-spacing-s); }
+.dh-my-m { margin-top: var(--dh-spacing-m); margin-bottom: var(--dh-spacing-m); }
+.dh-my-l { margin-top: var(--dh-spacing-l); margin-bottom: var(--dh-spacing-l); }
+
+.dh-mt-0 { margin-top: 0; }
+.dh-mt-auto { margin-top: auto; }
+.dh-mt-x { margin-top: var(--dh-spacing-x); }
+.dh-mt-s { margin-top: var(--dh-spacing-s); }
+.dh-mt-m { margin-top: var(--dh-spacing-m); }
+.dh-mt-l { margin-top: var(--dh-spacing-l); }
+
+.dh-mr-0 { margin-right: 0; }
+.dh-mr-auto { margin-right: auto; }
+.dh-mr-x { margin-right: var(--dh-spacing-x); }
+.dh-mr-s { margin-right: var(--dh-spacing-s); }
+.dh-mr-m { margin-right: var(--dh-spacing-m); }
+.dh-mr-l { margin-right: var(--dh-spacing-l); }
+
+.dh-mb-0 { margin-bottom: 0; }
+.dh-mb-auto { margin-bottom: auto; }
+.dh-mb-x { margin-bottom: var(--dh-spacing-x); }
+.dh-mb-s { margin-bottom: var(--dh-spacing-s); }
+.dh-mb-m { margin-bottom: var(--dh-spacing-m); }
+.dh-mb-l { margin-bottom: var(--dh-spacing-l); }
+
+.dh-ml-0 { margin-left: 0; }
+.dh-ml-auto { margin-left: auto; }
+.dh-ml-x { margin-left: var(--dh-spacing-x); }
+.dh-ml-s { margin-left: var(--dh-spacing-s); }
+.dh-ml-m { margin-left: var(--dh-spacing-m); }
+.dh-ml-l { margin-left: var(--dh-spacing-l); }
+
+.dh-gap-0 { gap: 0; }
+.dh-gap-x { gap: var(--dh-spacing-x); }
+.dh-gap-s { gap: var(--dh-spacing-s); }
+.dh-gap-m { gap: var(--dh-spacing-m); }
+.dh-gap-l { gap: var(--dh-spacing-l); }

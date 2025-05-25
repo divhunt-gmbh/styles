@@ -1,0 +1,19 @@
+.dh-border { border: 1px solid var(--dh-bg-1-border); }
+.dh-border-0 { border: 0; }
+.dh-border-2 { border: 2px solid var(--dh-bg-1-border); }
+
+.dh-border-1 { border-color: var(--dh-bg-1-border); }
+.dh-border-2 { border-color: var(--dh-bg-2-border); }
+.dh-border-3 { border-color: var(--dh-bg-3-border); }
+.dh-border-4 { border-color: var(--dh-bg-4-border); }
+.dh-border-brand { border-color: var(--dh-brand-border); }
+.dh-border-blue { border-color: var(--dh-blue-border); }
+.dh-border-green { border-color: var(--dh-green-border); }
+.dh-border-red { border-color: var(--dh-red-border); }
+.dh-border-orange { border-color: var(--dh-orange-border); }
+
+.dh-rounded-none { border-radius: 0; }
+.dh-rounded-s { border-radius: var(--dh-radius-s); }
+.dh-rounded-m { border-radius: var(--dh-radius-m); }
+.dh-rounded-l { border-radius: var(--dh-radius-l); }
+.dh-rounded-full { border-radius: 9999px; }

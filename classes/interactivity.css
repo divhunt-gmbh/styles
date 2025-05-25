@@ -1,0 +1,20 @@
+.dh-cursor-auto { cursor: auto; }
+.dh-cursor-default { cursor: default; }
+.dh-cursor-pointer { cursor: pointer; }
+.dh-cursor-not-allowed { cursor: not-allowed; }
+
+.dh-select-none { user-select: none; }
+.dh-select-text { user-select: text; }
+.dh-select-all { user-select: all; }
+
+.dh-pointer-events-none { pointer-events: none; }
+.dh-pointer-events-auto { pointer-events: auto; }
+
+.dh-hover-text-1:hover { color: var(--dh-text-1); }
+.dh-hover-text-2:hover { color: var(--dh-text-2); }
+.dh-hover-text-brand:hover { color: var(--dh-brand-hover); }
+
+.dh-hover-opacity-25:hover { opacity: 0.25; }
+.dh-hover-opacity-50:hover { opacity: 0.5; }
+.dh-hover-opacity-75:hover { opacity: 0.75; }
+.dh-hover-opacity-100:hover { opacity: 1; }
